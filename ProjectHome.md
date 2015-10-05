@@ -1,0 +1,1 @@
+Ejemplo de como construir un pool de conexiones con Apache Tomcat en un proyecto Java y usando en este caso MySQL.
